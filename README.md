@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0F2742,72:164E63,100:7C3AED&height=240&section=header&text=SABOOHI%20FATIMA%20SHAFIA&fontSize=40&fontColor=E0F2FE&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI%20Applications&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+<img src="assets/shafia-github-header.png" width="100%" />
 
 ### Hey there, I'm Shafia 👋
 
