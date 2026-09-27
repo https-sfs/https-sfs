@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="assets/developer-environment.gif" width="100%" />
 
 <img src="assets/shafia-github-header.png" width="100%" />
 
