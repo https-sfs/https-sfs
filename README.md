@@ -4,7 +4,7 @@
 
 <img src="assets/shafia-github-header.png" width="100%" />
 
-<img src="assets/developer-environment-profile.gif" width="100%" />
+<img src="assets/developer-environment-profile-v4.gif" width="100%" />
 
 <img src="assets/developer-workflow-bottom.gif" width="100%" />
 
