@@ -1,104 +1,113 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         SHAFIA'S PROFILE                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:172554,100:7C3AED&height=220&section=header&text=SABOOHI%20FATIMA%20SHAFIA&fontSize=38&fontColor=E0F2FE&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Software%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0F2742,72:164E63,100:7C3AED&height=240&section=header&text=SABOOHI%20FATIMA%20SHAFIA&fontSize=40&fontColor=E0F2FE&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI%20Applications&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
 
 ### Hey there, I'm Shafia 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Computer+Science+Engineering+Student;Java+%26+DSA+Learner;Flutter+%26+Web+Developer;Backend+Engineering+Explorer;AI%2FGenAI+Application+Explorer;Always+building%2C+learning+%26+shipping" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=780&lines=Software+Developer;Mobile+Application+Developer;Responsive+Web+Developer;AI-Powered+Product+Builder;Full-Stack+Application+Builder;Problem+Solver+%7C+Product+Builder" alt="Typing introduction" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-https--sfs-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https-sfs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https-sfs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syedasaboohishafia@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Currently Building
+## ✨ What I Build
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-### 🧠 DSA
+### 📱 Mobile Applications
 
-Java, problem solving & interview preparation
+**iOS & Android experiences**
 
-</td>
-<td width="25%" align="center">
-
-### 🤖 AI / GenAI
-
-Exploring application engineering & intelligent systems
+Flutter • Firebase • Responsive UI • Real-time features
 
 </td>
-<td width="25%" align="center">
+<td width="50%" align="center">
 
-### ⚙️ Backend
+### 🌐 Web Experiences
 
-Spring Boot, APIs, databases & software engineering
+**Responsive, animated & 3D-inspired interfaces**
+
+React • Vite • Tailwind • JavaScript • GSAP
 
 </td>
-<td width="25%" align="center">
+</tr>
 
-### 📱 Web & Mobile
+<tr>
+<td width="50%" align="center">
 
-Flutter, React & modern web development
+### 🤖 AI-Powered Products
+
+**AI, GenAI workflows & intelligent automation**
+
+Risk intelligence • AI-assisted investigation • Product workflows
+
+</td>
+<td width="50%" align="center">
+
+### ⚙️ Full-Stack Systems
+
+**From interface to backend**
+
+Java • Spring Boot • REST APIs • Firebase • MySQL
 
 </td>
 </tr>
 </table>
 
-> **My current focus:** strengthening fundamentals while building practical software that solves real problems.
+<div align="center">
+
+### ⚡ Build → Automate → Ship
+
+**I turn ideas into usable products — with code, creativity and intelligent automation.**
+
+</div>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Computer Science Engineering student** who enjoys turning ideas into working products.
+I'm a **Computer Science Engineering student and software developer** who enjoys building products that combine strong engineering with polished user experiences.
 
-- 🎓 Currently pursuing **BE in Computer Science Engineering**
-- ☕ Strengthening **Java, DSA and problem-solving fundamentals**
-- 📱 Building mobile applications with **Flutter & Firebase**
-- 🌐 Building responsive web experiences with **React, Vite & Tailwind CSS**
-- ⚙️ Exploring **Spring Boot, REST APIs and backend engineering**
-- 🤖 Exploring **AI/GenAI application engineering**
-- 🏆 Participated in hackathons and built projects for real-world use cases
-- 💡 I learn best by building, breaking, debugging and rebuilding
+- 🎓 BE in Computer Science Engineering
+- 💻 Strong focus on **Java, DSA and software engineering fundamentals**
+- 📱 Built **Flutter + Firebase** mobile applications
+- 🌐 Built responsive and animated websites with **React, Vite, Tailwind CSS and GSAP**
+- ⚙️ Working with **Spring Boot, REST APIs, Firebase and MySQL**
+- 🤖 Building with **AI/GenAI concepts, intelligent workflows and automation**
+- 🏆 Hackathon participant with shipped projects and competitive programming experience
+- 🧩 Interested in the intersection of **software engineering + AI + creative product development**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Arsenal
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,dart,js,python,cpp,kotlin" />
-</p>
+### 💻 Languages
 
-### Development
+<img src="https://skillicons.dev/icons?i=java,dart,js,python,cpp,kotlin" height="72" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,html,css" />
-</p>
+### 🎨 Frontend & Mobile
 
-### Backend & Data
+<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,html,css" height="72" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,firebase,mysql,postman" />
-</p>
+### ⚙️ Backend, Data & APIs
 
-### Tools
+<img src="https://skillicons.dev/icons?i=spring,firebase,mysql,postman" height="72" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea" />
-</p>
+### 🛠️ Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea" height="72" />
+
+</div>
 
 ---
 
@@ -106,74 +115,80 @@ I'm a **Computer Science Engineering student** who enjoys turning ideas into wor
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ RIXO
 
 **Risk Intelligence & eXecution Operations**
 
-AI-assisted fraud investigation platform built around:
+AI-assisted fraud investigation and governed execution platform.
 
 **DETECT → INVESTIGATE → DECIDE → ACT → VERIFY**
 
-<a href="https://github.com/https-sfs/rixo-risk-intelligence">View repository →</a>
+`Python` `AI Workflows` `Risk Intelligence`
+
+[💻 GitHub](https://github.com/https-sfs/rixo-risk-intelligence) · [🌐 Live Demo](https://Rixo-risk-intelligence.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧱 Gee Cee Supplements
 
-Premium client-facing website built for a construction-material supplements brand.
+**Concrete Gets Superpowers.**
 
-**React • Vite • Tailwind • GSAP**
+A premium client website featuring an animated, visual-first landing experience.
 
-<a href="https://github.com/https-sfs/Gee-Cee-Supplements-Website">View repository →</a>
+`React` `Vite` `Tailwind` `GSAP`
+
+[💻 GitHub](https://github.com/https-sfs/Gee-Cee-Supplements-Website) · [🌐 Live Website](https://Gee-cee-supplements-website.vercel.app/)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 HackPrix Organizer
 
-Hackathon management application focused on organizer workflows, event updates, participant management and real-time data.
+Hackathon management and participant workflow system with real-time event functionality.
 
-**Flutter • Firebase**
+`Flutter` `Firebase`
 
-<a href="https://github.com/https-sfs/HackPrix-Organizer-App">View repository →</a>
+[💻 GitHub](https://github.com/https-sfs/HackPrix-Organizer-App) · [🌐 Live Check-in](https://hackprix-checkin.web.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 GenZrix
 
-Website built for a GIS-focused startup, combining responsive frontend development with branding and deployment work.
+Professional website for a GIS-focused startup, including responsive frontend development, branding and deployment.
 
-**HTML • CSS • JavaScript**
+`HTML` `CSS` `JavaScript`
 
-<a href="https://github.com/https-sfs/GenZrix-website">View repository →</a>
+[💻 GitHub](https://github.com/https-sfs/GenZrix-website) · [🌐 Live Website](https://www.genzrix.com/)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍲 FoodLink
 
-Food redistribution platform developed around connecting surplus food with people and organizations who need it.
+Food redistribution platform connecting surplus food with people and organizations who need it.
 
-<a href="https://github.com/https-sfs/FoodLink-NGO">View repository →</a>
+[💻 GitHub](https://github.com/https-sfs/FoodLink-NGO) · [🌐 Live Website](https://foodlink-hazel-eta.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍫 Chocolate Factory
 
-Backend-focused project exploring **Java, Spring Boot and MySQL**.
+Java backend project exploring application architecture and database-backed development.
 
-<a href="https://github.com/https-sfs/Chocolate-Factory">View repository →</a>
+`Java` `Spring Boot` `MySQL`
+
+[💻 GitHub](https://github.com/https-sfs/Chocolate-Factory)
 
 </td>
 </tr>
@@ -181,35 +196,21 @@ Backend-focused project exploring **Java, Spring Boot and MySQL**.
 
 ---
 
-## 🏆 Highlights
+## 🏆 Milestones
 
-| | Achievement |
-|---|---|
+<div align="center">
+
+| 🏅 | Milestone |
+|:---:|:---|
 | 🥈 | **App Fusion 2.0 — 2nd Place** |
 | 🥈 | **NoCode Development Workshop — 2nd Place** |
 | 🥉 | **CodeStorm Hackathon — 3rd Place** |
 | ⭐ | **HackerRank — 4★ Java** |
 | 🏅 | **Smart India Hackathon — College-level shortlisted team** |
 
----
+</div>
 
-## 📚 What I'm Learning Next
-
-```text
-DSA & Problem Solving
-        ↓
-Java + Object-Oriented Programming
-        ↓
-Spring Boot + REST APIs
-        ↓
-AI / GenAI Application Engineering
-        ↓
-Docker + CI/CD + Cloud
-```
-
-The goal isn't to collect technologies.
-
-**The goal is to understand them well enough to build with them.**
+> **Built. Shipped. Competed. Improved.**
 
 ---
 
@@ -217,17 +218,13 @@ The goal isn't to collect technologies.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=https-sfs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=false&theme=transparent&border_color=334155&text_color=cbd5e1&icon_color=67e8f9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=https-sfs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=false&theme=transparent&border_color=334155&text_color=cbd5e1&icon_color=67e8f9" height="180" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https-sfs&theme=transparent&hide_border=false&border=334155&ring=67E8F9&fire=7C3AED&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" height="165" />
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=https-sfs&theme=transparent&hide_border=false&border=334155&ring=67E8F9&fire=7C3AED&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" height="180" />
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-sfs&layout=compact&langs_count=8&theme=transparent&border_color=334155&text_color=cbd5e1&title_color=67e8f9" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-sfs&layout=compact&langs_count=8&theme=transparent&border_color=334155&text_color=cbd5e1&title_color=67e8f9" height="165" />
 
 </div>
 
@@ -237,7 +234,11 @@ The goal isn't to collect technologies.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/https-sfs/https-sfs/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/https-sfs/https-sfs/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="92%" />
+
+<br/>
+
+**Every square represents something shipped, fixed, learned or built.**
 
 </div>
 
@@ -247,21 +248,15 @@ The goal isn't to collect technologies.
 
 <div align="center">
 
-<a href="https://github.com/https-sfs">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-**Open to learning, building and meaningful engineering opportunities.**
+**Let's build something meaningful. 🩵**
 
 </div>
 
@@ -269,8 +264,6 @@ The goal isn't to collect technologies.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:0B1220&height=120&section=footer" width="100%" />
-
-### *Keep building. Keep learning. Keep shipping. 🩵*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:164E63,100:07111F&height=130&section=footer" width="100%" />
 
 </div>
