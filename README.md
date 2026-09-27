@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/shafia-blue-checkpoint.svg" width="100%" />
+
 <img src="assets/shafia-github-header.png" width="100%" />
 
 <h1 align="center">Hey there, I'm Shafia 👋</h1>
