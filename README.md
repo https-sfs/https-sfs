@@ -2,13 +2,12 @@
 
 <img src="assets/shafia-github-header.png" width="100%" />
 
-### Hey there, I'm Shafia 👋
+<h1 align="center">Hey there, I'm Shafia 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=780&lines=Software+Developer;Mobile+Application+Developer;Responsive+Web+Developer;AI-Powered+Product+Builder;Full-Stack+Application+Builder;Problem+Solver+%7C+Product+Builder" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Software+Developer;Mobile+Application+Developer;3D+Web+Experience+Builder;AI+%26+GenAI+Application+Builder;Full-Stack+Development+Enthusiast;Problem+Solver+%7C+Product+Builder" alt="Typing introduction" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https-sfs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syedasaboohishafia@gmail.com)
 
