@@ -4,16 +4,7 @@
 
 <img src="assets/shafia-github-header.png" width="100%" />
 
-<h1 align="center">Hey there, I'm Shafia 👋</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2400&pause=800&color=67E8F9&center=true&vCenter=true&width=900&lines=Software+Developer;Mobile+Application+Developer;3D+Web+Experience+Builder;AI+%26+GenAI+Application+Builder;Full-Stack+Development+Enthusiast;Problem+Solver+%7C+Product+Builder" alt="Typing introduction" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syedasaboohishafia@gmail.com)
-
-<br/>
+<img src="assets/developer-environment-profile.gif" width="100%" />
 
 <img src="assets/developer-workflow-bottom.gif" width="100%" />
 
