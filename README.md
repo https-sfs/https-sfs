@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=900&color=9FE8FF&center=true&vCenter=true&width=850&height=80&lines=%24+git+status+%E2%86%92+clean;%24+git+checkout+main;%24+npm+run+build+%E2%86%92+success;%24+deploy+%E2%86%92+production+%E2%9C%93"alt="Developer terminal animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=900&color=9FE8FF&center=true&vCenter=true&width=850&height=80&lines=%24+git+status+%E2%86%92+clean;%24+git+checkout+main;%24+npm+run+build+%E2%86%92+success;%24+deploy+%E2%86%92+production+%E2%9C%93"alt="Developerterminalanimation"/>
 
 </div>
 
