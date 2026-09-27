@@ -13,6 +13,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Syedasaboohishafia@gmail.com)
 
+<br/>
+
+<img src="assets/developer-workflow-bottom.gif" width="100%" />
+
+<br/>
+
+</div>
+
 
 </div>
 
