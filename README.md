@@ -173,22 +173,74 @@ Java backend project exploring application architecture and database-backed deve
 
 ---
 
-## 🏆 Milestones
+## 🏆 Achievements
 
 <div align="center">
 
-| 🏅 | Milestone |
-|:---:|:---|
-| 🥈 | **App Fusion 2.0 — 2nd Place** |
-| 🥈 | **NoCode Development Workshop — 2nd Place** |
-| 🥉 | **CodeStorm Hackathon — 3rd Place** |
-| ⭐ | **HackerRank — 4★ Java** |
-| 🏅 | **Smart India Hackathon — College-level shortlisted team** |
+<table width="94%">
+<tr>
+<td width="50%" valign="top">
+
+### 🥈 IIT Bombay Techfest — CodeDecode
+
+**Runner-Up · 2nd Place**
+
+</td>
+<td width="50%" valign="top">
+
+### 🥈 App Fusion 2.0
+
+**2nd Place · Hackathon**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥈 NoCode Development Workshop
+
+**2nd Place · Competition**
+
+</td>
+<td width="50%" valign="top">
+
+### 🥉 CodeStorm Hackathon
+
+**3rd Place · Hackathon**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⭐ HackerRank
+
+**4-Star Java Badge**
+
+</td>
+<td width="50%" valign="top">
+
+### 🐙 GitHub
+
+**Pull Shark Achievement**
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🏅 Smart India Hackathon (SIH)
+
+**College-Level Shortlisted Team — Twice**
+
+</td>
+</tr>
+</table>
 
 </div>
-
-> **Built. Shipped. Competed. Improved.**
-
 ---
 
 ## 📊 GitHub Activity
