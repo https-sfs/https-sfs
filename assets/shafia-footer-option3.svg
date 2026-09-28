@@ -1,44 +1,76 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 560" width="2172" height="560">
-<rect width="2172" height="560" fill="#07111F"/>
-<g stroke="#21465D" stroke-width="1" opacity=".55">
-<path d="M0 35H2172"/><path d="M0 90H2172"/><path d="M0 145H2172"/><path d="M0 200H2172"/><path d="M0 255H2172"/><path d="M0 310H2172"/><path d="M0 365H2172"/><path d="M0 420H2172"/><path d="M0 475H2172"/><path d="M0 530H2172"/>
-<path d="M70 0V560"/><path d="M178 0V560"/><path d="M286 0V560"/><path d="M394 0V560"/><path d="M502 0V560"/><path d="M610 0V560"/><path d="M718 0V560"/><path d="M826 0V560"/><path d="M934 0V560"/><path d="M1042 0V560"/><path d="M1150 0V560"/><path d="M1258 0V560"/><path d="M1366 0V560"/><path d="M1474 0V560"/><path d="M1582 0V560"/><path d="M1690 0V560"/><path d="M1798 0V560"/><path d="M1906 0V560"/><path d="M2014 0V560"/><path d="M2122 0V560"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 506" width="2172" height="506">
+<rect width="2172" height="506" fill="#07111A"/>
+
+<!-- SAME QUIET CHECKPOINT MATRIX LANGUAGE AS HEADER -->
+<g stroke="#29485A" stroke-width="1.4" opacity="0.72">
+  <path d="M0 35H2172"/><path d="M0 105H2172"/><path d="M0 175H2172"/><path d="M0 245H2172"/><path d="M0 315H2172"/><path d="M0 385H2172"/><path d="M0 455H2172"/>
+  <path d="M86 0V506"/><path d="M194 0V506"/><path d="M302 0V506"/><path d="M410 0V506"/><path d="M518 0V506"/><path d="M626 0V506"/><path d="M734 0V506"/><path d="M842 0V506"/><path d="M950 0V506"/><path d="M1058 0V506"/><path d="M1166 0V506"/><path d="M1274 0V506"/><path d="M1382 0V506"/><path d="M1490 0V506"/><path d="M1598 0V506"/><path d="M1706 0V506"/><path d="M1814 0V506"/><path d="M1922 0V506"/><path d="M2030 0V506"/><path d="M2138 0V506"/>
 </g>
 
-<g fill="#4C86A6" font-family="monospace" font-size="14" opacity=".78">
-<text x="92" y="170">SOLVE</text><text x="92" y="192">BUILD</text><text x="92" y="214">ITERATE</text>
-<text x="1980" y="170">PRODUCTS</text><text x="1980" y="192">PEOPLE</text><text x="1980" y="214">IMPACT</text>
+<!-- HEADER-LIKE IDE FRAME -->
+<rect x="84" y="34" width="2004" height="438" rx="17" fill="#0A151F" stroke="#29485A" stroke-width="1.8"/>
+
+<!-- title bar -->
+<circle cx="111" cy="65" r="7" fill="#FF6B6B"/>
+<circle cx="135" cy="65" r="7" fill="#FFD166"/>
+<circle cx="159" cy="65" r="7" fill="#70D6A5"/>
+<text x="205" y="71" fill="#78909E" font-family="monospace" font-size="18">shafia.dev  ·  developer workspace</text>
+
+<line x1="84" y1="93" x2="2088" y2="93" stroke="#1D3545" stroke-width="1.2"/>
+
+<!-- explorer -->
+<rect x="110" y="113" width="350" height="325" rx="9" fill="#09141E" stroke="#203C4E" stroke-width="1.3"/>
+<text x="136" y="145" fill="#A5B7C1" font-family="monospace" font-size="17">EXPLORER</text>
+
+<text x="136" y="180" fill="#536D7C" font-family="monospace" font-size="15">⌄</text>
+<text x="168" y="180" fill="#B0BEC7" font-family="monospace" font-size="15">src</text>
+<text x="168" y="209" fill="#8295A1" font-family="monospace" font-size="15">□ main.dart</text>
+<text x="168" y="238" fill="#8295A1" font-family="monospace" font-size="15">□ App.java</text>
+<text x="168" y="267" fill="#8295A1" font-family="monospace" font-size="15">□ api.js</text>
+
+<text x="136" y="298" fill="#536D7C" font-family="monospace" font-size="15">⌄</text>
+<text x="168" y="298" fill="#B0BEC7" font-family="monospace" font-size="15">assets</text>
+<text x="168" y="327" fill="#8295A1" font-family="monospace" font-size="15">□ README.md</text>
+<text x="168" y="356" fill="#8295A1" font-family="monospace" font-size="15">□ pubspec.yaml</text>
+<text x="136" y="385" fill="#536D7C" font-family="monospace" font-size="15">⌄</text>
+<text x="168" y="385" fill="#B0BEC7" font-family="monospace" font-size="15">.github</text>
+<text x="168" y="414" fill="#8295A1" font-family="monospace" font-size="15">□ workflows</text>
+
+<!-- editor -->
+<rect x="484" y="113" width="940" height="325" rx="9" fill="#09141E" stroke="#203C4E" stroke-width="1.3"/>
+<text x="512" y="145" fill="#A5B7C1" font-family="monospace" font-size="17">App.java</text>
+<line x1="484" y1="163" x2="1424" y2="163" stroke="#1A3343"/>
+<g font-family="monospace" font-size="15">
+<text x="512" y="194" fill="#5C7584">01</text><text x="568" y="194" fill="#B9C7CE">public class</text>
+<text x="512" y="220" fill="#5C7584">02</text><text x="568" y="220" fill="#B9C7CE">  Developer {</text>
+<text x="512" y="246" fill="#5C7584">03</text><text x="568" y="246" fill="#A9BBC4">    String role = "Software Developer";</text>
+<text x="512" y="272" fill="#5C7584">04</text><text x="568" y="272" fill="#A9BBC4">    String[] build = {"Mobile", "Web", "AI"};</text>
+<text x="512" y="298" fill="#5C7584">05</text><text x="568" y="298" fill="#B9C7CE">    void ship() {</text>
+<text x="512" y="324" fill="#5C7584">06</text><text x="568" y="324" fill="#A9BBC4">      build();</text>
+<text x="512" y="350" fill="#5C7584">07</text><text x="568" y="350" fill="#A9BBC4">      test();</text>
+<text x="512" y="376" fill="#5C7584">08</text><text x="568" y="376" fill="#A9BBC4">      deploy();</text>
+</g>
+<rect x="512" y="285" width="870" height="27" fill="#0C2534" stroke="#4D8BA8" stroke-width="1"/>
+
+<!-- terminal -->
+<rect x="1448" y="113" width="612" height="325" rx="9" fill="#09141E" stroke="#203C4E" stroke-width="1.3"/>
+<text x="1476" y="145" fill="#A5B7C1" font-family="monospace" font-size="17">TERMINAL</text>
+<line x1="1448" y1="163" x2="2060" y2="163" stroke="#1A3343"/>
+<g font-family="monospace" font-size="15">
+<text x="1476" y="199" fill="#6E8795">$ git status</text>
+<text x="1502" y="225" fill="#91A5AF">✓ working tree clean</text>
+<text x="1476" y="258" fill="#6E8795">$ git checkout main</text>
+<text x="1502" y="284" fill="#91A5AF">Switched to main</text>
+<text x="1476" y="317" fill="#6E8795">$ npm run build</text>
+<text x="1502" y="343" fill="#91A5AF">✓ build complete</text>
 </g>
 
-<!-- IDE window -->
-<rect x="55" y="245" width="2062" height="270" rx="12" fill="#091725" stroke="#2A536B" stroke-width="1.6"/>
-<circle cx="82" cy="273" r="6" fill="#FF6B6B"/>
-<circle cx="103" cy="273" r="6" fill="#FFD166"/>
-<circle cx="124" cy="273" r="6" fill="#70D6A5"/>
-<text x="160" y="279" fill="#8EA7B6" font-family="monospace" font-size="17">shafia.dev  ·  workspace</text>
-<line x1="55" y1="305" x2="2117" y2="305" stroke="#203D50"/>
-
-<!-- Explorer -->
-<rect x="78" y="326" width="410" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
-<text x="102" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">EXPLORER</text>
-<text x="102" y="383" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="383" fill="#B7C7D0" font-family="monospace" font-size="14">src</text>
-<text x="102" y="411" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="411" fill="#B7C7D0" font-family="monospace" font-size="14">apps</text>
-<text x="102" y="439" fill="#7F97A6" font-family="monospace" font-size="14">›</text><text x="126" y="439" fill="#B7C7D0" font-family="monospace" font-size="14">web</text>
-<text x="102" y="467" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="467" fill="#B7C7D0" font-family="monospace" font-size="14">README.md</text>
-
-<!-- README/editor -->
-<rect x="510" y="326" width="1065" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
-<text x="535" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">README.md</text>
-<text x="535" y="383" fill="#647D8D" font-family="monospace" font-size="14">01  // developer</text>
-<text x="535" y="411" fill="#647D8D" font-family="monospace" font-size="14">02  // problem solver</text>
-<text x="535" y="439" fill="#647D8D" font-family="monospace" font-size="14">03  // building for a better tomorrow</text>
-<text x="535" y="467" fill="#67B7E8" font-family="monospace" font-size="14">04  const mission = "build meaningful products";</text>
-
-<!-- Git -->
-<rect x="1597" y="326" width="496" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
-<text x="1622" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">GIT</text>
-<text x="1622" y="383" fill="#647D8D" font-family="monospace" font-size="14">Changes:</text><text x="1720" y="383" fill="#B7C7D0" font-family="monospace" font-size="14">0</text>
-<text x="1622" y="411" fill="#647D8D" font-family="monospace" font-size="14">Commits:</text><text x="1720" y="411" fill="#B7C7D0" font-family="monospace" font-size="14">24</text>
-<text x="1622" y="439" fill="#647D8D" font-family="monospace" font-size="14">Branches:</text><text x="1720" y="439" fill="#B7B7D0" font-family="monospace" font-size="14">main</text>
-<text x="1622" y="467" fill="#67B7E8" font-family="monospace" font-size="14">Status: up to date</text>
+<text x="1476" y="397" fill="#536D7C" font-family="monospace" font-size="13">CODE</text>
+<line x1="1530" y1="393" x2="1588" y2="393" stroke="#4B7388" stroke-width="2"/>
+<text x="1602" y="397" fill="#536D7C" font-family="monospace" font-size="13">BUILD</text>
+<line x1="1660" y1="393" x2="1718" y2="393" stroke="#4B7388" stroke-width="2"/>
+<text x="1732" y="397" fill="#536D7C" font-family="monospace" font-size="13">TEST</text>
+<line x1="1782" y1="393" x2="1840" y2="393" stroke="#4B7388" stroke-width="2"/>
+<text x="1854" y="397" fill="#536D7C" font-family="monospace" font-size="13">DEPLOY</text>
+<circle cx="1900" cy="393" r="7" fill="#29485A" stroke="#6C9AAF"/>
 </svg>
