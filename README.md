@@ -15,57 +15,9 @@
 
 ---
 
-## ✨ What I Build
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📱 Mobile Applications
-
-**iOS & Android experiences**
-
-Flutter • Firebase • Responsive UI • Real-time features
-
-</td>
-<td width="50%" align="center">
-
-### 🌐 Web Experiences
-
-**Responsive, animated & 3D-inspired interfaces**
-
-React • Vite • Tailwind • JavaScript • GSAP
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🤖 AI-Powered Products
-
-**AI, GenAI workflows & intelligent automation**
-
-Risk intelligence • AI-assisted investigation • Product workflows
-
-</td>
-<td width="50%" align="center">
-
-### ⚙️ Full-Stack Systems
-
-**From interface to backend**
-
-Java • Spring Boot • REST APIs • Firebase • MySQL
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-### ⚡ Build → Automate → Ship
-
-**I turn ideas into usable products — with code, creativity and intelligent automation.**
+<img src="assets/what-i-build.png" width="100%" />
 
 </div>
 
