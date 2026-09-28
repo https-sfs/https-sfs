@@ -247,25 +247,21 @@ Java backend project exploring application architecture and database-backed deve
 **Every square represents something shipped, fixed, learned or built.**
 
 </div>
----
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
-**Let's build something meaningful. 🩵**
+**Let's build something meaningful🩵**
 
 </div>
-
----
 
 <div align="center">
 
