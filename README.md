@@ -262,7 +262,7 @@ Java backend project exploring application architecture and database-backed deve
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=110&pause=1800&color=67E8F9&center=true&vCenter=true&width=900&height=60&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=180&pause=2200&deleteSpeed=80&color=67E8F9&center=true&vCenter=true&width=900&height=65&cursorStyle=%7C&cursorSpeed=600&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
 
 <br/><br/>
 
