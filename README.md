@@ -75,11 +75,17 @@ I'm a **Computer Science Engineering student and software developer** who enjoys
 
 ## 🚀 Featured Work
 
-<table>
+<div align="center">
+
+<img src="assets/featured-work-matrix.svg" width="100%" />
+
+</div>
+
+<table width="94%" align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ RIXO
+### 🛡️ [RIXO](https://github.com/https-sfs/rixo-risk-intelligence)
 
 **Risk Intelligence & eXecution Operations**
 
@@ -89,12 +95,12 @@ AI-assisted fraud investigation and governed execution platform.
 
 `Python` `AI Workflows` `Risk Intelligence`
 
-[💻 GitHub](https://github.com/https-sfs/rixo-risk-intelligence) · [🌐 Live Demo](https://Rixo-risk-intelligence.vercel.app/)
+🌐 [Live Demo](https://Rixo-risk-intelligence.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧱 Gee Cee Supplements
+### 🧱 [Gee Cee Supplements](https://github.com/https-sfs/Gee-Cee-Supplements-Website)
 
 **Concrete Gets Superpowers.**
 
@@ -102,7 +108,7 @@ A premium client website featuring an animated, visual-first landing experience.
 
 `React` `Vite` `Tailwind` `GSAP`
 
-[💻 GitHub](https://github.com/https-sfs/Gee-Cee-Supplements-Website) · [🌐 Live Website](https://Gee-cee-supplements-website.vercel.app/)
+🌐 [Live Website](https://Gee-cee-supplements-website.vercel.app/)
 
 </td>
 </tr>
@@ -110,24 +116,24 @@ A premium client website featuring an animated, visual-first landing experience.
 <tr>
 <td width="50%" valign="top">
 
-### 📱 HackPrix Organizer
+### 📱 [HackPrix Organizer](https://github.com/https-sfs/HackPrix-Organizer-App)
 
 Hackathon management and participant workflow system with real-time event functionality.
 
 `Flutter` `Firebase`
 
-[💻 GitHub](https://github.com/https-sfs/HackPrix-Organizer-App) · [🌐 Live Check-in](https://hackprix-checkin.web.app/)
+🌐 [Live Check-in](https://hackprix-checkin.web.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 GenZrix
+### 🌐 [GenZrix](https://github.com/https-sfs/GenZrix-website)
 
 Professional website for a GIS-focused startup, including responsive frontend development, branding and deployment.
 
 `HTML` `CSS` `JavaScript`
 
-[💻 GitHub](https://github.com/https-sfs/GenZrix-website) · [🌐 Live Website](https://www.genzrix.com/)
+🌐 [Live Website](https://www.genzrix.com/)
 
 </td>
 </tr>
@@ -135,27 +141,30 @@ Professional website for a GIS-focused startup, including responsive frontend de
 <tr>
 <td width="50%" valign="top">
 
-### 🍲 FoodLink
+### 🍲 [FoodLink](https://github.com/https-sfs/FoodLink-NGO)
 
 Food redistribution platform connecting surplus food with people and organizations who need it.
 
-[💻 GitHub](https://github.com/https-sfs/FoodLink-NGO) · [🌐 Live Website](https://foodlink-hazel-eta.vercel.app/)
+🌐 [Live Website](https://foodlink-hazel-eta.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🍫 Chocolate Factory
+### 🍫 [Chocolate Factory](https://github.com/https-sfs/Chocolate-Factory)
 
 Java backend project exploring application architecture and database-backed development.
 
 `Java` `Spring Boot` `MySQL`
 
-[💻 GitHub](https://github.com/https-sfs/Chocolate-Factory)
-
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<img src="assets/featured-work-matrix.svg" width="100%" />
+
+</div>
 ---
 
 ## 🏆 Milestones
