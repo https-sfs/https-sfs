@@ -177,20 +177,22 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
+<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
+
+<br/>
+
 <table width="94%">
 <tr>
 <td width="50%" valign="top">
 
-### 🥈 IIT Bombay Techfest — CodeDecode
-
-**Runner-Up · 2nd Place**
+**🥈 IIT Bombay Techfest — CodeDecode**  
+*Runner-Up · 2nd Place*
 
 </td>
 <td width="50%" valign="top">
 
-### 🥈 App Fusion 2.0
-
-**2nd Place · Hackathon**
+**🥈 App Fusion 2.0**  
+*2nd Place · Hackathon*
 
 </td>
 </tr>
@@ -198,33 +200,14 @@ Java backend project exploring application architecture and database-backed deve
 <tr>
 <td width="50%" valign="top">
 
-### 🥈 NoCode Development Workshop
-
-**2nd Place · Competition**
-
-</td>
-<td width="50%" valign="top">
-
-### 🥉 CodeStorm Hackathon
-
-**3rd Place · Hackathon**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⭐ HackerRank
-
-**4-Star Java Badge**
+**🥈 NoCode Development Workshop**  
+*2nd Place · Competition*
 
 </td>
 <td width="50%" valign="top">
 
-### 🐙 GitHub
-
-**Pull Shark Achievement**
+**🥉 CodeStorm Hackathon**  
+*3rd Place · Hackathon*
 
 </td>
 </tr>
@@ -232,13 +215,24 @@ Java backend project exploring application architecture and database-backed deve
 <tr>
 <td colspan="2" align="center">
 
-### 🏅 Smart India Hackathon (SIH)
+**⭐ HackerRank — 4-Star Java Badge**
 
-**College-Level Shortlisted Team — Twice**
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+**🏅 Smart India Hackathon (SIH)**  
+*College-Level Shortlisted Team — Twice*
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
 
 </div>
 ---
