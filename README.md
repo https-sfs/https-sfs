@@ -47,6 +47,12 @@ I'm a **Computer Science Engineering student and software developer** who enjoys
 
 </div>
 
+<div align="center">
+
+<img src="assets/shafia-blue-checkpoint.svg" width="100%" />
+
+</div>
+
 ---
 
 ## 🧰 Tech Arsenal
