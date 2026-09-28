@@ -1,0 +1,123 @@
+<svg width="1100" height="700" viewBox="0 0 1100 700"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0" stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#67E8F9" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- LEFT SIDE -->
+  <g fill="none" stroke="url(#blue)" stroke-width="1">
+
+    <path d="M20 80 H150 V110 H220"/>
+    <path d="M0 190 H95 V160 H210"/>
+    <path d="M30 310 H145 V340 H225"/>
+    <path d="M0 450 H110 V420 H215"/>
+    <path d="M35 570 H150 V600 H230"/>
+
+  </g>
+
+  <!-- RIGHT SIDE -->
+  <g fill="none" stroke="url(#blue)" stroke-width="1">
+
+    <path d="M1080 80 H950 V110 H880"/>
+    <path d="M1100 190 H1005 V160 H890"/>
+    <path d="M1070 310 H955 V340 H875"/>
+    <path d="M1100 450 H990 V420 H885"/>
+    <path d="M1065 570 H950 V600 H870"/>
+
+  </g>
+
+  <!-- LEFT NODES -->
+  <g fill="#67E8F9">
+
+    <circle cx="150" cy="80" r="2"/>
+    <circle cx="95" cy="190" r="2"/>
+    <circle cx="145" cy="310" r="2"/>
+    <circle cx="110" cy="450" r="2"/>
+    <circle cx="150" cy="570" r="2"/>
+
+    <circle cx="950" cy="80" r="2"/>
+    <circle cx="1005" cy="190" r="2"/>
+    <circle cx="955" cy="310" r="2"/>
+    <circle cx="990" cy="450" r="2"/>
+    <circle cx="950" cy="570" r="2"/>
+
+  </g>
+
+  <!-- MOVING LIGHTS -->
+
+  <circle cy="110" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="30;220;30"
+      dur="4s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cy="340" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="225;30;225"
+      dur="5s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cy="600" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="35;230;35"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="4.5s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cy="110" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="1070;880;1070"
+      dur="4.2s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="4.2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cy="340" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="875;1070;875"
+      dur="5.2s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="5.2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cy="600" r="2.5" fill="#67E8F9" filter="url(#glow)">
+    <animate attributeName="cx"
+      values="1065;870;1065"
+      dur="4.7s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.15;1;0.15"
+      dur="4.7s"
+      repeatCount="indefinite"/>
+  </circle>
+
+</svg>
