@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100">
+<style>
+.t{font-family:Inter,Arial,sans-serif;font-size:34px;font-weight:700;fill:#67E8F9}
+.c{fill:#67E8F9}
+</style>
+<text x="500" y="62" text-anchor="middle" class="t">
+<tspan opacity="0">Let's<animate attributeName="opacity" begin="0s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan> <animate attributeName="opacity" begin="0s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan opacity="0">build<animate attributeName="opacity" begin="0.9s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan> <animate attributeName="opacity" begin="0.9s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan opacity="0">something<animate attributeName="opacity" begin="1.8s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan> <animate attributeName="opacity" begin="1.8s" dur="0.01s" fill="freeze" to="1"/></tspan>
+<tspan opacity="0">meaningful.<animate attributeName="opacity" begin="2.7s" dur="0.01s" fill="freeze" to="1"/></tspan>
+</text>
+<rect x="700" y="30" width="3" height="38" class="c">
+<animate attributeName="opacity" values="1;0" dur="0.55s" repeatCount="indefinite"/>
+</rect>
+</svg>
