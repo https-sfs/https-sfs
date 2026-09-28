@@ -1,30 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 360" width="2172" height="360">
-<rect width="2172" height="360" fill="#07111F"/>
-<g stroke="#21465D" stroke-width="1" opacity=".52">
-<path d="M0 28H2172"/><path d="M0 70H2172"/><path d="M0 112H2172"/><path d="M0 154H2172"/><path d="M0 196H2172"/><path d="M0 238H2172"/><path d="M0 280H2172"/><path d="M0 322H2172"/>
-<path d="M72 0V360"/><path d="M180 0V360"/><path d="M288 0V360"/><path d="M396 0V360"/><path d="M504 0V360"/><path d="M612 0V360"/><path d="M720 0V360"/><path d="M828 0V360"/><path d="M936 0V360"/><path d="M1044 0V360"/><path d="M1152 0V360"/><path d="M1260 0V360"/><path d="M1368 0V360"/><path d="M1476 0V360"/><path d="M1584 0V360"/><path d="M1692 0V360"/><path d="M1800 0V360"/><path d="M1908 0V360"/><path d="M2016 0V360"/><path d="M2124 0V360"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 560" width="2172" height="560">
+<rect width="2172" height="560" fill="#07111F"/>
+<g stroke="#21465D" stroke-width="1" opacity=".55">
+<path d="M0 35H2172"/><path d="M0 90H2172"/><path d="M0 145H2172"/><path d="M0 200H2172"/><path d="M0 255H2172"/><path d="M0 310H2172"/><path d="M0 365H2172"/><path d="M0 420H2172"/><path d="M0 475H2172"/><path d="M0 530H2172"/>
+<path d="M70 0V560"/><path d="M178 0V560"/><path d="M286 0V560"/><path d="M394 0V560"/><path d="M502 0V560"/><path d="M610 0V560"/><path d="M718 0V560"/><path d="M826 0V560"/><path d="M934 0V560"/><path d="M1042 0V560"/><path d="M1150 0V560"/><path d="M1258 0V560"/><path d="M1366 0V560"/><path d="M1474 0V560"/><path d="M1582 0V560"/><path d="M1690 0V560"/><path d="M1798 0V560"/><path d="M1906 0V560"/><path d="M2014 0V560"/><path d="M2122 0V560"/>
 </g>
-<g fill="#4C86A6" font-family="monospace" font-size="13" opacity=".72">
-<text x="72" y="92">SOLVE</text><text x="72" y="110">BUILD</text><text x="72" y="128">ITERATE</text>
-<text x="2010" y="92">PRODUCTS</text><text x="2010" y="110">PEOPLE</text><text x="2010" y="128">IMPACT</text>
+
+<g fill="#4C86A6" font-family="monospace" font-size="14" opacity=".78">
+<text x="92" y="170">SOLVE</text><text x="92" y="192">BUILD</text><text x="92" y="214">ITERATE</text>
+<text x="1980" y="170">PRODUCTS</text><text x="1980" y="192">PEOPLE</text><text x="1980" y="214">IMPACT</text>
 </g>
-<rect x="24" y="174" width="2124" height="162" rx="12" fill="#091725" stroke="#24506A" stroke-width="1.4"/>
-<circle cx="48" cy="198" r="5" fill="#FF6B6B"/><circle cx="66" cy="198" r="5" fill="#FFD166"/><circle cx="84" cy="198" r="5" fill="#70D6A5"/>
-<text x="120" y="203" fill="#8EA7B6" font-family="monospace" font-size="14">shafia.dev  ·  workspace</text>
-<line x1="24" y1="222" x2="2148" y2="222" stroke="#1D394C"/>
-<rect x="42" y="238" width="360" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
-<text x="62" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">EXPLORER</text>
-<text x="62" y="278" fill="#67B7E8" font-family="monospace" font-size="12">›</text><text x="80" y="278" fill="#A8BAC5" font-family="monospace" font-size="12">src</text>
-<text x="62" y="296" fill="#7E95A4" font-family="monospace" font-size="12">›</text><text x="80" y="296" fill="#A8BAC5" font-family="monospace" font-size="12">projects</text>
-<text x="62" y="314" fill="#67B7E8" font-family="monospace" font-size="12">›</text><text x="80" y="314" fill="#A8BAC5" font-family="monospace" font-size="12">README.md</text>
-<rect x="420" y="238" width="1120" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
-<text x="442" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">README.md</text>
-<text x="442" y="281" fill="#5F7787" font-family="monospace" font-size="12">01  // developer</text>
-<text x="442" y="298" fill="#5F7787" font-family="monospace" font-size="12">02  // problem solver</text>
-<text x="442" y="315" fill="#67B7E8" font-family="monospace" font-size="12">03  const mission = "build meaningful products";</text>
-<rect x="1558" y="238" width="572" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
-<text x="1580" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">GIT</text>
-<text x="1580" y="281" fill="#667E8D" font-family="monospace" font-size="12">Changes:</text><text x="1670" y="281" fill="#A8BAC5" font-family="monospace" font-size="12">0</text>
-<text x="1580" y="298" fill="#667E8D" font-family="monospace" font-size="12">Commits:</text><text x="1670" y="298" fill="#A8BAC5" font-family="monospace" font-size="12">24</text>
-<text x="1580" y="315" fill="#67B7E8" font-family="monospace" font-size="12">Status: up to date</text>
+
+<!-- IDE window -->
+<rect x="55" y="245" width="2062" height="270" rx="12" fill="#091725" stroke="#2A536B" stroke-width="1.6"/>
+<circle cx="82" cy="273" r="6" fill="#FF6B6B"/>
+<circle cx="103" cy="273" r="6" fill="#FFD166"/>
+<circle cx="124" cy="273" r="6" fill="#70D6A5"/>
+<text x="160" y="279" fill="#8EA7B6" font-family="monospace" font-size="17">shafia.dev  ·  workspace</text>
+<line x1="55" y1="305" x2="2117" y2="305" stroke="#203D50"/>
+
+<!-- Explorer -->
+<rect x="78" y="326" width="410" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
+<text x="102" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">EXPLORER</text>
+<text x="102" y="383" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="383" fill="#B7C7D0" font-family="monospace" font-size="14">src</text>
+<text x="102" y="411" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="411" fill="#B7C7D0" font-family="monospace" font-size="14">apps</text>
+<text x="102" y="439" fill="#7F97A6" font-family="monospace" font-size="14">›</text><text x="126" y="439" fill="#B7C7D0" font-family="monospace" font-size="14">web</text>
+<text x="102" y="467" fill="#67B7E8" font-family="monospace" font-size="14">›</text><text x="126" y="467" fill="#B7C7D0" font-family="monospace" font-size="14">README.md</text>
+
+<!-- README/editor -->
+<rect x="510" y="326" width="1065" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
+<text x="535" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">README.md</text>
+<text x="535" y="383" fill="#647D8D" font-family="monospace" font-size="14">01  // developer</text>
+<text x="535" y="411" fill="#647D8D" font-family="monospace" font-size="14">02  // problem solver</text>
+<text x="535" y="439" fill="#647D8D" font-family="monospace" font-size="14">03  // building for a better tomorrow</text>
+<text x="535" y="467" fill="#67B7E8" font-family="monospace" font-size="14">04  const mission = "build meaningful products";</text>
+
+<!-- Git -->
+<rect x="1597" y="326" width="496" height="164" rx="8" fill="#081421" stroke="#1E3D51"/>
+<text x="1622" y="354" fill="#A7BCC8" font-family="monospace" font-size="14">GIT</text>
+<text x="1622" y="383" fill="#647D8D" font-family="monospace" font-size="14">Changes:</text><text x="1720" y="383" fill="#B7C7D0" font-family="monospace" font-size="14">0</text>
+<text x="1622" y="411" fill="#647D8D" font-family="monospace" font-size="14">Commits:</text><text x="1720" y="411" fill="#B7C7D0" font-family="monospace" font-size="14">24</text>
+<text x="1622" y="439" fill="#647D8D" font-family="monospace" font-size="14">Branches:</text><text x="1720" y="439" fill="#B7B7D0" font-family="monospace" font-size="14">main</text>
+<text x="1622" y="467" fill="#67B7E8" font-family="monospace" font-size="14">Status: up to date</text>
 </svg>
