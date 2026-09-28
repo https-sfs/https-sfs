@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 300" width="2172" height="300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#07111F"/>
+    <stop offset="0.5" stop-color="#0A1728"/>
+    <stop offset="1" stop-color="#07111F"/>
+  </linearGradient>
+  <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="2172" height="300" rx="8" fill="url(#bg)"/>
+
+<g stroke="#1E3A4F" stroke-width="1" opacity="0.38">
+  <path d="M0 50H2172"/><path d="M0 100H2172"/><path d="M0 150H2172"/><path d="M0 200H2172"/><path d="M0 250H2172"/>
+  <path d="M120 0V300"/><path d="M360 0V300"/><path d="M600 0V300"/><path d="M840 0V300"/><path d="M1080 0V300"/><path d="M1320 0V300"/><path d="M1560 0V300"/><path d="M1800 0V300"/><path d="M2040 0V300"/>
+</g>
+
+<rect x="150" y="48" width="1872" height="204" rx="10" fill="#081522" stroke="#23465C" stroke-width="1.2"/>
+
+<circle cx="180" cy="76" r="6" fill="#67E8F9" opacity="0.9"/>
+<circle cx="202" cy="76" r="6" fill="#38BDF8" opacity="0.55"/>
+<circle cx="224" cy="76" r="6" fill="#0EA5E9" opacity="0.4"/>
+
+<text x="260" y="82" fill="#94A3B8" font-family="monospace" font-size="20">SHAFIA.DEV / CONNECTION TERMINAL</text>
+
+<path d="M180 112H1992" stroke="#164E63" stroke-width="1"/>
+
+<text x="190" y="158" fill="#67E8F9" font-family="monospace" font-size="25" filter="url(#glow)">&gt;</text>
+<text x="220" y="158" fill="#E2E8F0" font-family="monospace" font-size="25">connect --build-something-meaningful</text>
+<text x="220" y="198" fill="#64748B" font-family="monospace" font-size="19">status:</text>
+<text x="300" y="198" fill="#67E8F9" font-family="monospace" font-size="19">ONLINE</text>
+<text x="405" y="198" fill="#64748B" font-family="monospace" font-size="19">·</text>
+<text x="430" y="198" fill="#94A3B8" font-family="monospace" font-size="19">open to building meaningful products</text>
+
+<path d="M180 228H1992" stroke="#164E63" stroke-width="1"/>
+<circle cx="180" cy="228" r="2.5" fill="#67E8F9"/>
+<circle cx="1992" cy="228" r="2.5" fill="#67E8F9"/>
+</svg>
