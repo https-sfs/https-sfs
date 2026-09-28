@@ -27,14 +27,25 @@
 
 I'm a **Computer Science Engineering student and software developer** who enjoys building products that combine strong engineering with polished user experiences.
 
-- 🎓 BE in Computer Science Engineering
-- 💻 Strong focus on **Java, DSA and software engineering fundamentals**
-- 📱 Built **Flutter + Firebase** mobile applications
-- 🌐 Built responsive and animated websites with **React, Vite, Tailwind CSS and GSAP**
-- ⚙️ Working with **Spring Boot, REST APIs, Firebase and MySQL**
-- 🤖 Building with **AI/GenAI concepts, intelligent workflows and automation**
-- 🏆 Hackathon participant with shipped projects and competitive programming experience
-- 🧩 Interested in the intersection of **software engineering + AI + creative product development**
+<br/>
+
+▸ 🎓 **BE in Computer Science Engineering**
+
+▸ 💻 Strong focus on **Java, DSA and software engineering fundamentals**
+
+▸ 📱 Built **Flutter + Firebase** mobile applications
+
+▸ 🌐 Built responsive and animated websites with **React, Vite, Tailwind CSS and GSAP**
+
+▸ ⚙️ Working with **Spring Boot, REST APIs, Firebase and MySQL**
+
+▸ 🤖 Building with **AI/GenAI concepts, intelligent workflows and automation**
+
+▸ 🏆 Hackathon participant with shipped projects and competitive programming experience
+
+▸ 🧩 Interested in the intersection of **software engineering + AI + creative product development**
+
+</div>
 
 ---
 
