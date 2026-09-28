@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 420" width="2172" height="420">
+<defs>
+  <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="typingClip">
+    <rect x="610" y="278" width="0" height="34">
+      <animate attributeName="width" from="0" to="950" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+</defs>
+
+<!-- Header-style matrix environment -->
+<rect width="2172" height="420" fill="#07111F"/>
+
+<g stroke="#24485F" stroke-width="1" opacity="0.62">
+  <path d="M0 35H2172"/><path d="M0 77H2172"/><path d="M0 119H2172"/>
+  <path d="M0 161H2172"/><path d="M0 203H2172"/><path d="M0 245H2172"/>
+  <path d="M0 287H2172"/><path d="M0 329H2172"/><path d="M0 371H2172"/>
+  <path d="M72 0V420"/><path d="M180 0V420"/><path d="M288 0V420"/>
+  <path d="M396 0V420"/><path d="M504 0V420"/><path d="M612 0V420"/>
+  <path d="M720 0V420"/><path d="M828 0V420"/><path d="M936 0V420"/>
+  <path d="M1044 0V420"/><path d="M1152 0V420"/><path d="M1260 0V420"/>
+  <path d="M1368 0V420"/><path d="M1476 0V420"/><path d="M1584 0V420"/>
+  <path d="M1692 0V420"/><path d="M1800 0V420"/><path d="M1908 0V420"/>
+  <path d="M2016 0V420"/><path d="M2124 0V420"/>
+</g>
+
+<!-- Header-style IDE / terminal window -->
+<rect x="170" y="45" width="1832" height="330" rx="18" fill="#0A1624" stroke="#2B5067" stroke-width="1.5"/>
+
+<!-- top chrome -->
+<circle cx="198" cy="73" r="6" fill="#FF6B6B"/>
+<circle cx="220" cy="73" r="6" fill="#FFD166"/>
+<circle cx="242" cy="73" r="6" fill="#70D6A5"/>
+<text x="280" y="79" fill="#8FA8B8" font-family="monospace" font-size="18">shafia.dev  ·  developer workspace</text>
+
+<line x1="170" y1="101" x2="2002" y2="101" stroke="#203B4E" stroke-width="1"/>
+
+<!-- left explorer -->
+<rect x="190" y="120" width="390" height="210" rx="10" fill="#091522" stroke="#203E52"/>
+<text x="215" y="148" fill="#A9C1CE" font-family="monospace" font-size="16">EXPLORER</text>
+<text x="215" y="180" fill="#67E8F9" font-family="monospace" font-size="15">›</text>
+<text x="240" y="180" fill="#CBD5E1" font-family="monospace" font-size="15">src</text>
+<text x="240" y="207" fill="#94A3B8" font-family="monospace" font-size="15">□ main.dart</text>
+<text x="240" y="234" fill="#94A3B8" font-family="monospace" font-size="15">□ App.java</text>
+<text x="240" y="261" fill="#94A3B8" font-family="monospace" font-size="15">□ api.js</text>
+<text x="215" y="288" fill="#67E8F9" font-family="monospace" font-size="15">›</text>
+<text x="240" y="288" fill="#CBD5E1" font-family="monospace" font-size="15">assets</text>
+<text x="240" y="315" fill="#94A3B8" font-family="monospace" font-size="15">□ README.md</text>
+
+<!-- center terminal -->
+<rect x="600" y="120" width="850" height="210" rx="10" fill="#091522" stroke="#203E52"/>
+<text x="625" y="148" fill="#A9C1CE" font-family="monospace" font-size="16">TERMINAL</text>
+<line x1="625" y1="162" x2="1425" y2="162" stroke="#183447"/>
+
+<text x="625" y="205" fill="#67E8F9" font-family="monospace" font-size="18">$</text>
+<text x="652" y="205" fill="#CBD5E1" font-family="monospace" font-size="18">echo</text>
+<text x="720" y="205" fill="#94A3B8" font-family="monospace" font-size="18">"connection.status"</text>
+
+<text x="625" y="250" fill="#67E8F9" font-family="monospace" font-size="18">›</text>
+<text x="652" y="250" fill="#67E8F9" font-family="monospace" font-size="18">ONLINE</text>
+<circle cx="756" cy="244" r="5" fill="#67E8F9" filter="url(#glow)">
+  <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<text x="625" y="292" fill="#67E8F9" font-family="monospace" font-size="18">$</text>
+<text x="652" y="292" fill="#CBD5E1" font-family="monospace" font-size="18">echo</text>
+<text x="720" y="292" fill="#E2E8F0" font-family="monospace" font-size="20" clip-path="url(#typingClip)">Let's build something meaningful.</text>
+<rect x="611" y="274" width="3" height="24" fill="#67E8F9" filter="url(#glow)">
+  <animate attributeName="x" values="611;1561;611" dur="4.2s" repeatCount="indefinite"/>
+</rect>
+
+<!-- right status panel -->
+<rect x="1470" y="120" width="510" height="210" rx="10" fill="#091522" stroke="#203E52"/>
+<text x="1495" y="148" fill="#A9C1CE" font-family="monospace" font-size="16">BUILD STATUS</text>
+<text x="1495" y="190" fill="#647B89" font-family="monospace" font-size="15">CODE</text>
+<text x="1580" y="190" fill="#67E8F9" font-family="monospace" font-size="15">PASS</text>
+<text x="1495" y="220" fill="#647B89" font-family="monospace" font-size="15">BUILD</text>
+<text x="1580" y="220" fill="#67E8F9" font-family="monospace" font-size="15">READY</text>
+<text x="1495" y="250" fill="#647B89" font-family="monospace" font-size="15">SHIP</text>
+<text x="1580" y="250" fill="#67E8F9" font-family="monospace" font-size="15">ACTIVE</text>
+<line x1="1495" y1="278" x2="1950" y2="278" stroke="#183447"/>
+<text x="1495" y="304" fill="#506776" font-family="monospace" font-size="13">BUILD · SHIP · ITERATE</text>
+</svg>
