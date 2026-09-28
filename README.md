@@ -252,16 +252,30 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=67B7E8&labelColor=07111F" /></a>
-&nbsp;&nbsp;
-<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=67B7E8&labelColor=07111F" /></a>
+<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
 
 <br/><br/>
 
-<img src="assets/shafia-typing-line.svg" width="72%" />
+<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-<img src="assets/shafia-footer-option3.svg" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=75&pause=1800&color=67E8F9&center=true&vCenter=true&width=700&height=50&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
+
+<br/><br/>
+
+<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:164E63,100:0EA5E9&height=130&section=footer" width="100%" />
 
 </div>
