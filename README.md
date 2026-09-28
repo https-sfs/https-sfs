@@ -252,8 +252,6 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
-
 <br/><br/>
 
 <a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -264,11 +262,9 @@ Java backend project exploring application architecture and database-backed deve
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=75&pause=1800&color=67E8F9&center=true&vCenter=true&width=700&height=50&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=110&pause=1800&color=67E8F9&center=true&vCenter=true&width=900&height=60&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
 
 <br/><br/>
-
-<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
 
 </div>
 
