@@ -53,8 +53,6 @@ I'm a **Computer Science Engineering student and software developer** who enjoys
 
 </div>
 
----
-
 ## 🧰 Tech Arsenal
 
 <div align="center">
