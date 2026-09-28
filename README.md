@@ -252,22 +252,12 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
-
-<br/><br/>
-
-<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GITHUB-0B1624?style=for-the-badge&logo=github&logoColor=67E8F9" /></a>
+<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=07111F" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-0B1624?style=for-the-badge&logo=linkedin&logoColor=67E8F9" /></a>
-&nbsp;&nbsp;
-<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1624?style=for-the-badge&logo=gmail&logoColor=67E8F9" /></a>
+<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=67E8F9&labelColor=07111F" /></a>
 
 <br/><br/>
 
-**Let's build something meaningful. 🩵**
-
-<br/><br/>
-
-<img src="assets/shafia-bottom-terminal.svg" width="100%" />
+<img src="assets/shafia-footer-aura.svg" width="100%" />
 
 </div>
