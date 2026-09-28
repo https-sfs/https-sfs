@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 300" width="2172" height="300">
+<defs>
+  <linearGradient id="fade" x1="0" x2="1">
+    <stop offset="0" stop-color="#07111F" stop-opacity="0"/>
+    <stop offset="0.18" stop-color="#07111F"/>
+    <stop offset="0.5" stop-color="#0B1D2D"/>
+    <stop offset="0.82" stop-color="#07111F"/>
+    <stop offset="1" stop-color="#07111F" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-20%" y="-100%" width="140%" height="300%">
+    <feGaussianBlur stdDeviation="1.5"/>
+  </filter>
+</defs>
+
+<rect width="2172" height="300" fill="url(#fade)"/>
+
+<g stroke="#1B3A50" stroke-width="1" opacity="0.34">
+  <path d="M150 50H2022"/><path d="M150 100H2022"/><path d="M150 150H2022"/><path d="M150 200H2022"/><path d="M150 250H2022"/>
+  <path d="M270 25V275"/><path d="M510 25V275"/><path d="M750 25V275"/><path d="M990 25V275"/><path d="M1230 25V275"/><path d="M1470 25V275"/><path d="M1710 25V275"/><path d="M1950 25V275"/>
+</g>
+
+<g fill="none" stroke="#164E63" opacity="0.72">
+  <path d="M150 151 C430 92 600 205 870 148 S1320 92 1550 150 S1840 202 2022 145" stroke-width="1.4"/>
+  <path d="M150 153 C430 104 600 194 870 151 S1320 104 1550 152 S1840 192 2022 147" stroke="#67E8F9" stroke-width="0.8" opacity="0.5"/>
+</g>
+
+<path d="M150 151 C430 92 600 205 870 148 S1320 92 1550 150 S1840 202 2022 145"
+      fill="none" stroke="#67E8F9" stroke-width="1.6" opacity="0.72" filter="url(#glow)">
+  <animate attributeName="stroke-dasharray" values="0 3000;650 2350;0 3000" dur="5s" repeatCount="indefinite"/>
+</path>
+
+<circle cx="1086" cy="149" r="4" fill="#9FE8FF" filter="url(#glow)">
+  <animate attributeName="r" values="2.5;6;2.5" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+
+<g filter="url(#glow)">
+  <text x="1086" y="132" text-anchor="middle" fill="#E2E8F0" font-family="monospace" font-size="34" font-weight="600">
+    Let's build something meaningful.
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.18;.82;1" dur="6s" repeatCount="indefinite"/>
+  </text>
+</g>
+
+<text x="1086" y="174" text-anchor="middle" fill="#67E8F9" font-family="monospace" font-size="13" letter-spacing="4" opacity="0.75">
+  BUILD · SHIP · ITERATE
+</text>
+</svg>
