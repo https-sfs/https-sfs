@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 360" width="2172" height="360">
+<rect width="2172" height="360" fill="#07111F"/>
+<g stroke="#21465D" stroke-width="1" opacity=".52">
+<path d="M0 28H2172"/><path d="M0 70H2172"/><path d="M0 112H2172"/><path d="M0 154H2172"/><path d="M0 196H2172"/><path d="M0 238H2172"/><path d="M0 280H2172"/><path d="M0 322H2172"/>
+<path d="M72 0V360"/><path d="M180 0V360"/><path d="M288 0V360"/><path d="M396 0V360"/><path d="M504 0V360"/><path d="M612 0V360"/><path d="M720 0V360"/><path d="M828 0V360"/><path d="M936 0V360"/><path d="M1044 0V360"/><path d="M1152 0V360"/><path d="M1260 0V360"/><path d="M1368 0V360"/><path d="M1476 0V360"/><path d="M1584 0V360"/><path d="M1692 0V360"/><path d="M1800 0V360"/><path d="M1908 0V360"/><path d="M2016 0V360"/><path d="M2124 0V360"/>
+</g>
+<g fill="#4C86A6" font-family="monospace" font-size="13" opacity=".72">
+<text x="72" y="92">SOLVE</text><text x="72" y="110">BUILD</text><text x="72" y="128">ITERATE</text>
+<text x="2010" y="92">PRODUCTS</text><text x="2010" y="110">PEOPLE</text><text x="2010" y="128">IMPACT</text>
+</g>
+<rect x="24" y="174" width="2124" height="162" rx="12" fill="#091725" stroke="#24506A" stroke-width="1.4"/>
+<circle cx="48" cy="198" r="5" fill="#FF6B6B"/><circle cx="66" cy="198" r="5" fill="#FFD166"/><circle cx="84" cy="198" r="5" fill="#70D6A5"/>
+<text x="120" y="203" fill="#8EA7B6" font-family="monospace" font-size="14">shafia.dev  ·  workspace</text>
+<line x1="24" y1="222" x2="2148" y2="222" stroke="#1D394C"/>
+<rect x="42" y="238" width="360" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
+<text x="62" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">EXPLORER</text>
+<text x="62" y="278" fill="#67B7E8" font-family="monospace" font-size="12">›</text><text x="80" y="278" fill="#A8BAC5" font-family="monospace" font-size="12">src</text>
+<text x="62" y="296" fill="#7E95A4" font-family="monospace" font-size="12">›</text><text x="80" y="296" fill="#A8BAC5" font-family="monospace" font-size="12">projects</text>
+<text x="62" y="314" fill="#67B7E8" font-family="monospace" font-size="12">›</text><text x="80" y="314" fill="#A8BAC5" font-family="monospace" font-size="12">README.md</text>
+<rect x="420" y="238" width="1120" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
+<text x="442" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">README.md</text>
+<text x="442" y="281" fill="#5F7787" font-family="monospace" font-size="12">01  // developer</text>
+<text x="442" y="298" fill="#5F7787" font-family="monospace" font-size="12">02  // problem solver</text>
+<text x="442" y="315" fill="#67B7E8" font-family="monospace" font-size="12">03  const mission = "build meaningful products";</text>
+<rect x="1558" y="238" width="572" height="78" rx="7" fill="#081421" stroke="#1C3A4D"/>
+<text x="1580" y="258" fill="#A7BCC8" font-family="monospace" font-size="12">GIT</text>
+<text x="1580" y="281" fill="#667E8D" font-family="monospace" font-size="12">Changes:</text><text x="1670" y="281" fill="#A8BAC5" font-family="monospace" font-size="12">0</text>
+<text x="1580" y="298" fill="#667E8D" font-family="monospace" font-size="12">Commits:</text><text x="1670" y="298" fill="#A8BAC5" font-family="monospace" font-size="12">24</text>
+<text x="1580" y="315" fill="#67B7E8" font-family="monospace" font-size="12">Status: up to date</text>
+</svg>
