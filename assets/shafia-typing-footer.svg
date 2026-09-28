@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="90" viewBox="0 0 760 90">
+  <style>
+    .typing {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      fill: #F8FAFC;
+    }
+    .cursor {
+      fill: #67E8F9;
+    }
+  </style>
+  <text x="380" y="54" text-anchor="middle" class="typing">
+    <tspan opacity="0">L<animate attributeName="opacity" begin="0s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" begin="0.08s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" begin="0.16s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">'<animate attributeName="opacity" begin="0.24s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">s<animate attributeName="opacity" begin="0.32s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">&#160;<animate attributeName="opacity" begin="0.40s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">b<animate attributeName="opacity" begin="0.48s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">u<animate attributeName="opacity" begin="0.56s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" begin="0.64s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">l<animate attributeName="opacity" begin="0.72s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">d<animate attributeName="opacity" begin="0.80s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">&#160;<animate attributeName="opacity" begin="0.88s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">s<animate attributeName="opacity" begin="0.96s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">o<animate attributeName="opacity" begin="1.04s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">m<animate attributeName="opacity" begin="1.12s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" begin="1.20s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">t<animate attributeName="opacity" begin="1.28s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">h<animate attributeName="opacity" begin="1.36s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" begin="1.44s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" begin="1.52s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">g<animate attributeName="opacity" begin="1.60s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">&#160;<animate attributeName="opacity" begin="1.68s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">m<animate attributeName="opacity" begin="1.76s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">e<animate attributeName="opacity" begin="1.84s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">a<animate attributeName="opacity" begin="1.92s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" begin="2.00s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">i<animate attributeName="opacity" begin="2.08s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">n<animate attributeName="opacity" begin="2.16s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">g<animate attributeName="opacity" begin="2.24s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">f<animate attributeName="opacity" begin="2.32s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">u<animate attributeName="opacity" begin="2.40s" dur="0.01s" fill="freeze" to="1"/></tspan>
+    <tspan opacity="0">l<animate attributeName="opacity" begin="2.48s" dur="0.01s" fill="freeze" to="1"/></tspan>
+  </text>
+  <rect x="626" y="28" width="3" height="32" class="cursor">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" begin="2.56s"/>
+  </rect>
+</svg>
