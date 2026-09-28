@@ -236,34 +236,17 @@ Java backend project exploring application architecture and database-backed deve
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=https-sfs&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=false&theme=transparent&border_color=334155&text_color=cbd5e1&icon_color=67e8f9" height="180" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https-sfs&theme=transparent&hide_border=false&border=334155&ring=67E8F9&fire=7C3AED&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8" height="180" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-sfs&layout=compact&langs_count=8&theme=transparent&border_color=334155&text_color=cbd5e1&title_color=67e8f9" height="165" />
-
-</div>
-
----
-
 ## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/https-sfs/https-sfs/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="92%" />
+<img src="https://raw.githubusercontent.com/https-sfs/https-sfs/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="92%" />
 
 <br/>
 
 **Every square represents something shipped, fixed, learned or built.**
 
 </div>
-
 ---
 
 ## 🌐 Let's Connect
