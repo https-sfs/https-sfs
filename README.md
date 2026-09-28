@@ -252,19 +252,22 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-
-<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="assets/shafia-blue-checkpoint.svg" width="94%" />
 
 <br/><br/>
 
-**Let's build something meaningful🩵**
+<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GITHUB-0B1624?style=for-the-badge&logo=github&logoColor=67E8F9" /></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-0B1624?style=for-the-badge&logo=linkedin&logoColor=67E8F9" /></a>
+&nbsp;&nbsp;
+<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1624?style=for-the-badge&logo=gmail&logoColor=67E8F9" /></a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+**Let's build something meaningful. 🩵**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:164E63,100:07111F&height=130&section=footer" width="100%" />
+<br/><br/>
+
+<img src="assets/shafia-bottom-terminal.svg" width="100%" />
 
 </div>
