@@ -258,6 +258,6 @@ Java backend project exploring application architecture and database-backed deve
 
 <br/><br/>
 
-<img src="assets/shafia-footer-aura.svg" width="100%" />
+<img src="assets/shafia-footer-terminal-v2.svg" width="100%" />
 
 </div>
