@@ -235,7 +235,6 @@ Java backend project exploring application architecture and database-backed deve
 <img src="assets/shafia-blue-checkpoint.svg" width="94%" />
 
 </div>
----
 
 ## 📊 GitHub Activity
 
