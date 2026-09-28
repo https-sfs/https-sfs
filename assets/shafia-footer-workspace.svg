@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 300" width="2172" height="300">
+<defs>
+  <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#07111F"/>
+    <stop offset="1" stop-color="#081522"/>
+  </linearGradient>
+</defs>
+<rect width="2172" height="300" fill="url(#bg)"/>
+<g stroke="#16415A" stroke-width="1" opacity=".48">
+  <path d="M0 24H2172"/><path d="M0 58H2172"/><path d="M0 92H2172"/><path d="M0 126H2172"/><path d="M0 160H2172"/><path d="M0 194H2172"/><path d="M0 228H2172"/><path d="M0 262H2172"/>
+  <path d="M72 0V300"/><path d="M180 0V300"/><path d="M288 0V300"/><path d="M396 0V300"/><path d="M504 0V300"/><path d="M612 0V300"/><path d="M720 0V300"/><path d="M828 0V300"/><path d="M936 0V300"/><path d="M1044 0V300"/><path d="M1152 0V300"/><path d="M1260 0V300"/><path d="M1368 0V300"/><path d="M1476 0V300"/><path d="M1584 0V300"/><path d="M1692 0V300"/><path d="M1800 0V300"/><path d="M1908 0V300"/><path d="M2016 0V300"/><path d="M2124 0V300"/>
+</g>
+
+<rect x="25" y="48" width="2122" height="227" rx="12" fill="#081522" stroke="#24516A" stroke-width="1.4"/>
+<circle cx="48" cy="70" r="5.5" fill="#FF6B6B"/><circle cx="68" cy="70" r="5.5" fill="#FFD166"/><circle cx="88" cy="70" r="5.5" fill="#70D6A5"/>
+<text x="130" y="75" fill="#8FA8B8" font-family="monospace" font-size="16">shafia.dev  ›  workspace</text>
+<line x1="25" y1="92" x2="2147" y2="92" stroke="#1B3749"/>
+
+<rect x="42" y="108" width="390" height="145" rx="8" fill="#091522" stroke="#1C3C50"/>
+<text x="62" y="132" fill="#A9C1CE" font-family="monospace" font-size="14">EXPLORER</text>
+<text x="62" y="158" fill="#67E8F9" font-family="monospace" font-size="13">›</text><text x="84" y="158" fill="#CBD5E1" font-family="monospace" font-size="13">src</text>
+<text x="84" y="180" fill="#94A3B8" font-family="monospace" font-size="13">▸ apps</text>
+<text x="84" y="202" fill="#94A3B8" font-family="monospace" font-size="13">▸ web</text>
+<text x="84" y="224" fill="#94A3B8" font-family="monospace" font-size="13">▸ mobile</text>
+<text x="84" y="246" fill="#CBD5E1" font-family="monospace" font-size="13">▸ README.md</text>
+
+<rect x="448" y="108" width="1010" height="145" rx="8" fill="#091522" stroke="#1C3C50"/>
+<text x="470" y="132" fill="#A9C1CE" font-family="monospace" font-size="14">README.md</text>
+<text x="470" y="158" fill="#526C7C" font-family="monospace" font-size="13">01</text><text x="510" y="158" fill="#A9B8C2" font-family="monospace" font-size="13">// developer</text>
+<text x="470" y="180" fill="#526C7C" font-family="monospace" font-size="13">02</text><text x="510" y="180" fill="#A9B8C2" font-family="monospace" font-size="13">// problem solver</text>
+<text x="470" y="202" fill="#526C7C" font-family="monospace" font-size="13">03</text><text x="510" y="202" fill="#A9B8C2" font-family="monospace" font-size="13">// building for a better tomorrow</text>
+<text x="470" y="230" fill="#526C7C" font-family="monospace" font-size="13">05</text><text x="510" y="230" fill="#67E8F9" font-family="monospace" font-size="13">const</text><text x="560" y="230" fill="#D7E2E8" font-family="monospace" font-size="13">mission =</text><text x="650" y="230" fill="#9CC9D9" font-family="monospace" font-size="13">"Make ideas real";</text>
+
+<rect x="1474" y="108" width="655" height="145" rx="8" fill="#091522" stroke="#1C3C50"/>
+<text x="1496" y="132" fill="#A9C1CE" font-family="monospace" font-size="14">GIT</text>
+<text x="1496" y="162" fill="#526C7C" font-family="monospace" font-size="13">Changes:</text><text x="1610" y="162" fill="#CBD5E1" font-family="monospace" font-size="13">0</text>
+<text x="1496" y="184" fill="#526C7C" font-family="monospace" font-size="13">Commits:</text><text x="1610" y="184" fill="#CBD5E1" font-family="monospace" font-size="13">24</text>
+<text x="1496" y="206" fill="#526C7C" font-family="monospace" font-size="13">Branches:</text><text x="1610" y="206" fill="#67E8F9" font-family="monospace" font-size="13">main</text>
+<text x="1496" y="228" fill="#67E8F9" font-family="monospace" font-size="13">✓</text><text x="1520" y="228" fill="#A9C1CE" font-family="monospace" font-size="13">Status: up to date</text>
+</svg>
