@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2172 180" width="2172" height="180">
+  <defs>
+    <filter id="softGlow" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Bright, visible checkpoint matrix matching the header's geometry -->
+  <g stroke="#67E8F9" stroke-width="1.4" opacity="0.58" filter="url(#softGlow)">
+    <path d="M0 45H2172"/>
+    <path d="M0 90H2172"/>
+    <path d="M0 135H2172"/>
+
+    <path d="M180 0V180"/>
+    <path d="M420 0V180"/>
+    <path d="M660 0V180"/>
+    <path d="M900 0V180"/>
+    <path d="M1140 0V180"/>
+    <path d="M1380 0V180"/>
+    <path d="M1620 0V180"/>
+    <path d="M1860 0V180"/>
+    <path d="M2100 0V180"/>
+  </g>
+
+  <!-- brighter checkpoint intersections -->
+  <g fill="#9FE8FF" opacity="0.9">
+    <circle cx="180" cy="45" r="2"/>
+    <circle cx="420" cy="90" r="2"/>
+    <circle cx="660" cy="135" r="2"/>
+    <circle cx="900" cy="45" r="2"/>
+    <circle cx="1140" cy="90" r="2"/>
+    <circle cx="1380" cy="135" r="2"/>
+    <circle cx="1620" cy="45" r="2"/>
+    <circle cx="1860" cy="90" r="2"/>
+    <circle cx="2100" cy="135" r="2"/>
+  </g>
+</svg>
