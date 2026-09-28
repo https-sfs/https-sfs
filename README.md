@@ -252,16 +252,16 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=07111F" /></a>
+<a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LINKEDIN-07111F?style=for-the-badge&logo=linkedin&logoColor=67B7E8&labelColor=07111F" /></a>
 &nbsp;&nbsp;
-<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=67E8F9&labelColor=07111F" /></a>
+<a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/EMAIL-07111F?style=for-the-badge&logo=gmail&logoColor=67B7E8&labelColor=07111F" /></a>
 
 <br/><br/>
 
-<img src="assets/shafia-typing-line.svg" width="78%" />
+<img src="assets/shafia-typing-line.svg" width="72%" />
 
-<br/><br/>
+<br/>
 
-<img src="assets/shafia-footer-terminal-v2.svg" width="100%" />
+<img src="assets/shafia-footer-option3.svg" width="100%" />
 
 </div>
