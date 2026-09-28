@@ -165,6 +165,8 @@ Java backend project exploring application architecture and database-backed deve
 <img src="assets/featured-work-matrix.svg" width="100%" />
 
 </div>
+
+
 ---
 
 ## 🏆 Milestones
