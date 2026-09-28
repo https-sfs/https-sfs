@@ -252,17 +252,17 @@ Java backend project exploring application architecture and database-backed deve
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=5000&pause=2200&deleteSpeed=180&color=67E8F9&center=true&vCenter=true&width=900&height=65&cursorStyle=%7C&cursorSpeed=600&lines=Let's+build+something+meaningful." alt="Let's build something meaningful." />
 
-<br/><br/>
+<br/>
 
 </div>
 
