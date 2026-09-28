@@ -1,0 +1,56 @@
+<svg width="170" height="650" viewBox="0 0 170 650" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="line" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0.45"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <g fill="none" stroke="url(#line)" stroke-width="1">
+
+    <path d="M160 80 H95 V110 H25"/>
+    <path d="M170 210 H125 V180 H50"/>
+    <path d="M150 350 H85 V320 H15"/>
+    <path d="M170 485 H115 V515 H35"/>
+    <path d="M145 590 H70 V565 H5"/>
+
+  </g>
+
+  <g fill="#67E8F9">
+
+    <circle cx="95" cy="80" r="2"/>
+    <circle cx="125" cy="210" r="2"/>
+    <circle cx="85" cy="350" r="2"/>
+    <circle cx="115" cy="485" r="2"/>
+    <circle cx="70" cy="590" r="2"/>
+
+    <circle cy="110" r="2.5" filter="url(#glow)">
+      <animate attributeName="cx"
+        values="150;25;150"
+        dur="4s"
+        repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+        values="0.15;0.9;0.15"
+        dur="4s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <circle cy="320" r="2.5" filter="url(#glow)">
+      <animate attributeName="cx"
+        values="15;150;15"
+        dur="4.8s"
+        repeatCount="indefinite"/>
+      <animate attributeName="opacity"
+        values="0.15;0.8;0.15"
+        dur="4.8s"
+        repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+</svg>
