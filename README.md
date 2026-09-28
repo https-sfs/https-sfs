@@ -254,8 +254,6 @@ Java backend project exploring application architecture and database-backed deve
 
 <br/><br/>
 
-<a href="https://github.com/https-sfs"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-&nbsp;
 <a href="https://www.linkedin.com/in/saboohi-fatima-shafia-3b8300292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:Syedasaboohishafia@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -267,8 +265,6 @@ Java backend project exploring application architecture and database-backed deve
 <br/><br/>
 
 </div>
-
----
 
 <div align="center">
 
