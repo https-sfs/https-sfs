@@ -258,6 +258,10 @@ Java backend project exploring application architecture and database-backed deve
 
 <br/><br/>
 
+<img src="assets/shafia-typing-line.svg" width="78%" />
+
+<br/><br/>
+
 <img src="assets/shafia-footer-terminal-v2.svg" width="100%" />
 
 </div>
